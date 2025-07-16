@@ -1,0 +1,5 @@
+﻿  RandomSubsets.cpp
+StanfordCPPLib-vs2022.lib(filelib.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(filelib.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(gobjects.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(gobjects.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(platform.obj)' or at ''; linking object as if no debug info
+  Random Subsets.vcxproj -> C:\Users\katos\OneDrive\Desktop\0B - Random Subsets\x64\Debug\Random Subsets.exe
